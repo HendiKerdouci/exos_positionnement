@@ -1,3 +1,5 @@
+
+
 div {
     border: 1px solid black;
 }
@@ -18,7 +20,6 @@ div {
 }
 
 #v1 {
-
 }
 
 #v2 {
@@ -31,3 +32,15 @@ div {
     position: relative;
     right: 75%;
 }
+
+.exo3{
+    height: 300px;
+    position: relative;
+}
+
+#v4 {
+    position: absolute;
+    left: 12%;
+    top: 70%;
+}
+
