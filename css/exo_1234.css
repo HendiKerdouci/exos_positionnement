@@ -44,3 +44,33 @@ div {
     top: 70%;
 }
 
+.exo4{
+    position: relative;
+}
+
+#v5 {
+    
+}
+
+#v6 {
+    position: absolute;
+    left: 10%;
+    top: 150%;
+}
+
+#v7{
+    position: relative;
+}
+
+#v8{
+    position: absolute;
+    left: 200%;
+    top: 200%;
+}
+
+.rectangle4 {
+    background-color: brown;
+    padding: 23px;
+
+}
+
