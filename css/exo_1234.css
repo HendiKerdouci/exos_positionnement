@@ -1,0 +1,33 @@
+div {
+    border: 1px solid black;
+}
+.rectangle1 {
+    background-color: green;
+    padding: 35px;
+    width: 300px;
+}
+
+.rectangle2 {
+    background-color: yellow;
+    padding: 30px;
+}
+
+.rectangle3 {
+    background-color: red;
+    padding: 25px;
+}
+
+#v1 {
+
+}
+
+#v2 {
+    position: relative;
+    left: 25%;
+    background-color: rgba(255, 255, 0, 0.404);
+}
+
+#v3 {
+    position: relative;
+    right: 75%;
+}
