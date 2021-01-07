@@ -75,3 +75,21 @@
     left: 20vw;
     background-color: yellow;
 }
+
+/* exo 6 */
+
+#c9{
+    top: 4.5vw;
+    left: 4.5vw;
+    z-index: 2;
+    background-color: rgba(0, 0, 255, 0.397);
+}
+
+#c10{
+    top: 17vw;
+    left: 17vw;
+    z-index: 1;
+    background-color: rgb(255, 115, 0);
+}
+
+
