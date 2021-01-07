@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+#container1 {
+    position: relative;
+    border: 1px solid black;
+    width: 40vw;
+    height: 40vw;
+    margin: 50px auto;
+    padding: 1.5vw;
+    background-color: #a1bee2;
+}
+
+.carre {
+    position: relative;
+    border: 1px solid black;
+    width: 15.5vw;
+    height: 15.5vw;
+    margin: 1.5vw;
+}
+
+#c1{
+    background-color: rgb(132, 214, 132);
+}
+
+#c2{
+    left: 18.5vw;
+    top: -17vw;
+    background-color: blue;
+}
+
+#c3{
+    top: -15.5vw;
+    background-color: rgb(255, 115, 0);
+}
+
+#c4{
+    left: 18.5vw;
+    top: -32.5vw;
+    background-color: yellow;
+}
