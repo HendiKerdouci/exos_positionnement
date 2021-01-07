@@ -2,6 +2,8 @@
     box-sizing: border-box;
 }
 
+/* exo 5a */
+
 #container1 {
     position: relative;
     border: 1px solid black;
@@ -38,5 +40,38 @@
 #c4{
     left: 18.5vw;
     top: -32.5vw;
+    background-color: yellow;
+}
+
+/* exo 5b */
+
+
+.carre1 {
+    position: absolute;
+    border: 1px solid black;
+    width: 15.5vw;
+    height: 15.5vw;
+    margin: 1.5vw;
+}
+
+#c5{
+    background-color: rgb(132, 214, 132);
+}
+
+#c6{
+    top: 1.5vw;
+    left: 20vw;
+    background-color: blue;
+}
+
+#c7{
+    top: 20vw;
+    left: 1.5vw;
+    background-color: rgb(255, 115, 0);
+}
+
+#c8{
+    top: 20vw;
+    left: 20vw;
     background-color: yellow;
 }
