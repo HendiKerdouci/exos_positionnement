@@ -92,4 +92,46 @@
     background-color: rgb(255, 115, 0);
 }
 
+/* exo 7*/
 
+#container2 {
+    position: relative;
+    border: 1px solid black;
+    width: 40vw;
+    height: 40vw;
+    margin: 50px auto;
+    padding: 3vw;
+    background-color: white;
+}
+
+.element{
+    border: 1px solid black;
+    height: 33%; 
+}
+
+#green{
+    float: left;
+    width: 33%;
+    background-color: green;
+}
+
+#blue{
+    width: 66%;
+    background-color: blue;
+}
+
+#brown{
+    background-color: brown;
+}
+
+#grey{
+    float: right;
+    width: 33%;
+    background-color: lightgrey;
+}
+
+#yellow{
+    float: right;
+    width: 33%;
+    background-color: yellow;
+}
