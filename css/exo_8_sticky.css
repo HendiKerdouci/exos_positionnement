@@ -2,3 +2,29 @@
     box-sizing: border-box;
     margin: O;
 }
+
+#menu {
+    position: sticky;
+    width: 15vw;
+    top: 10px;
+    border-radius: 8px;
+    background-color: orange;
+    padding: 15px;
+    margin: 15px;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+#paragraphe {
+    position: relative;
+    margin-top: 0;
+    margin-left: 250px;
+}
